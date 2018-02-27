@@ -11,6 +11,7 @@ BuildRequires:  python-devel
 BuildRequires:  python-nose
 BuildRequires:  python-xml
 Requires:       python-xml
+Provides:       python-docutil
 
 %description
 Docutils is a modular system for processing documentation into useful formats,
