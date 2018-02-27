@@ -57,5 +57,5 @@ rm -rf %{buildroot}
 %{python_sitelib}/docutils-%{version}-py%{python_version}.egg-info
 
 %changelog
-* Thue Feb 27 2018 Jijoong Moon <jijoong.moon@samsung.com>
+* Tue Feb 27 2018 Jijoong Moon <jijoong.moon@samsung.com>
 - Initial import
